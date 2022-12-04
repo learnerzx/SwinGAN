@@ -2,8 +2,9 @@
 
 Official PyTorch implementation of SwinGAN described in the paper "SwinGAN: A Dual-domain Swin Transformer-based Generative Adversarial Network for MRI reconstruction".
 
-<img src="./asserts/framework.png" width="600px">
-
+<div align="center">
+<img src="./asserts/framework.png" width="800px">
+</div>
 
 ## Dependencies
 
