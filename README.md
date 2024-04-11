@@ -61,7 +61,17 @@ python3 M2013_predict.py
 
 # Citation
 You are encouraged to modify/distribute this code. However, please acknowledge this code and cite the paper appropriately.
-
+```
+@article{ZHAO2023106513,
+title = {SwinGAN: A dual-domain Swin Transformer-based generative adversarial network for MRI reconstruction},
+author = {Xiang Zhao and Tiejun Yang and Bingjie Li and Xin Zhang},
+journal = {Computers in Biology and Medicine},
+year = {2023},
+volume = {153},
+pages = {106513},
+doi = {https://doi.org/10.1016/j.compbiomed.2022.106513}
+}
+```
 
 <br />
 
